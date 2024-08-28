@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=default.ico FAZ_ADOM_BUILDOUT.py
